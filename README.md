@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
