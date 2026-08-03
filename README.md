@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
