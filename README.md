@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0013-roman-to-integer) |
+| [0168-excel-sheet-column-title](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0168-excel-sheet-column-title) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0168-excel-sheet-column-title) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
