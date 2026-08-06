@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0168-excel-sheet-column-title) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0610-triangle-judgement) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
