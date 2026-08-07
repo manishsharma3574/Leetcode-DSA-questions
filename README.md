@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0177-nth-highest-salary) |
 | [0610-triangle-judgement](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0610-triangle-judgement) |
 ## Enumeration
 |  |
