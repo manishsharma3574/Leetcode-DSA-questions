@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1873-calculate-special-bonus](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Enumeration
 |  |
