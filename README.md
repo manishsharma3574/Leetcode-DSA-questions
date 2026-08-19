@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1484-group-sold-products-by-the-date) |
+| [1683-invalid-tweets](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Enumeration
