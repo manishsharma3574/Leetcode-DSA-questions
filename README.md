@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
