@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0168-excel-sheet-column-title) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1386-cinema-seat-allocation) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
