@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0013-roman-to-integer) |
+| [0115-distinct-subsequences](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0168-excel-sheet-column-title) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
