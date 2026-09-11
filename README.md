@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
