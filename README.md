@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1484-group-sold-products-by-the-date) |
 | [1683-invalid-tweets](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1683-invalid-tweets) |
 | [1795-rearrange-products-table](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1795-rearrange-products-table) |
