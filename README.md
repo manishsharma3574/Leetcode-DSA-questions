@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0168-excel-sheet-column-title) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0115-distinct-subsequences) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
