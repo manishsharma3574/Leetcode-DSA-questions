@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0177-nth-highest-salary) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0619-biggest-single-number) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1141-user-activity-for-the-past-30-days-i) |
