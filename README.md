@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1484-group-sold-products-by-the-date) |
+| [1661-average-time-of-process-per-machine](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1683-invalid-tweets) |
 | [1795-rearrange-products-table](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1873-calculate-special-bonus) |
