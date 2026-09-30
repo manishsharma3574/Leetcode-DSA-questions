@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0168-excel-sheet-column-title) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3498-reverse-degree-of-a-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0225-implement-stack-using-queues) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Design
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
