@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0168-excel-sheet-column-title) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0225-implement-stack-using-queues) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Design
@@ -161,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manishsharma3574/Leetcode-DSA-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
